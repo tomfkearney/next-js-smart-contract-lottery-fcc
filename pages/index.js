@@ -9,7 +9,7 @@ export default function Home() {
     return (
         <div className={styles.container}>
             <Head>
-                <title>Smart Contract Lottery</title>
+                <title>Lottery</title>
                 <meta name="description" content="fcc smart contract lottery demo app" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
